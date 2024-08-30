@@ -22,6 +22,7 @@ Usage
 1. Data
 
 Office-31, Office-Home, ImageCLEF-DA, VisDA-2017 datasets are available at [Datasets download](https://github.com/jindongwang/transferlearning/tree/master/data)
+
 Place the downloaded data set in the `ACAN/DataSets/` 
 
 2. Dependencies
