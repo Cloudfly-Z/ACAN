@@ -42,3 +42,18 @@ pyyaml==6.0.1
 bash DSAN/DSAN.sh
 ```
 
+Citation
+---
+If you think our code or paper are helpful to you, please cite us!
+```
+@article{ZHANG2024109132,
+title = {ACAN: A plug-and-play Adaptive Center-Aligned Network for unsupervised domain adaptation},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {137},
+pages = {109132},
+year = {2024},
+issn = {0952-1976},
+doi = {https://doi.org/10.1016/j.engappai.2024.109132},
+author = {Yunfei Zhang and Jun Zhang and Tonglu Li and Feixue Shao and Xuetao Ma and Yongfei Wu and Shu Feng and Daoxiang Zhou}
+}
+```
