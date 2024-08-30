@@ -20,8 +20,6 @@ Visualization
 Usage
 ---
 1. Data
-```
-
 Office-31, Office-Home, ImageCLEF-DA, VisDA-2017 datasets are available at [Datasets download]("https://github.com/jindongwang/transferlearning/tree/master/data#office-home")
+Place the downloaded data set in the 'ACAN/DataSets/' directory
 
-ACAN/ │ └───DataSets/ │ ├───image_CLEF/ │ ├───office31/ │ ├───OfficeHome/ │ └───VisDA-17/
