@@ -1,5 +1,5 @@
 # ACAN: A plug-and-play Adaptive Center-Aligned Network for unsupervised domain adaptation
-Official implementation of [ACAN](https://doi.org/10.1016/j.engappai.2024.109132) (EAAI 2024)
+Official implementation of [ACAN](https://doi.org/10.1016/j.engappai.2024.109132) (EAAI 2024).
 
 Abstract
 ---
@@ -21,7 +21,7 @@ Usage
 ---
 1. Data
 
-Office-31, Office-Home, ImageCLEF-DA, VisDA-2017 datasets are available at [Datasets download](https://github.com/jindongwang/transferlearning/tree/master/data)
+Office-31, Office-Home, ImageCLEF-DA, VisDA-2017 datasets are available at [Datasets download](https://github.com/jindongwang/transferlearning/tree/master/data).
 
 Place the downloaded dataset in the `ACAN/DataSets/` 
 
@@ -37,10 +37,14 @@ configargparse==1.7
 pyyaml==6.0.1
 ```
 
-3. Run shell script files such as
+3. Run shell script files such as:
 ```
 bash DSAN/DSAN.sh
 ```
+
+Acknowledgement
+---
+Our code is based on the project [Everything about Transfer Learning and Domain Adapation](https://github.com/jindongwang/transferlearning).
 
 Citation
 ---
