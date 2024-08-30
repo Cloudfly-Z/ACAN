@@ -16,3 +16,10 @@ Network Architecture
 Visualization
 ---
 ![TSNE](/fig/FigTNSE.png "Visualization")
+
+Usage
+---
+1. Data
+```
+Office-31, Office-Home, ImageCLEF-DA, VisDA-2017 datasets are available at [Datasets download]("https://github.com/jindongwang/transferlearning/tree/master/data#office-home")
+ACAN/ │ └───DataSets/ │ ├───image_CLEF/ │ ├───office31/ │ ├───OfficeHome/ │ └───VisDA-17/
