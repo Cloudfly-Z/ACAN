@@ -36,4 +36,8 @@ configargparse==1.7
 pyyaml==6.0.1
 ```
 
-3. Run shell script files such as `bash DSAN/DSAN.sh`
+3. Run shell script files such as
+```
+bash DSAN/DSAN.sh
+```
+
