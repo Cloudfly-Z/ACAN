@@ -7,10 +7,12 @@ Domain adaptation is an important topic due to its capability in transferring kn
 
 Motivation
 ---
-!(/fig/FigToyexample.png "Toy Example")
+![Motivation](/fig/FigToyexample.png "Toy Example")
 
 Network Architecture
 ---
+![Framework](/fig/FigFramework.jpg "Network Architecture")
 
 Visualization
 ---
+![TSNE](/fig/FigTNSE.png "Visualization")
