@@ -22,7 +22,7 @@ Usage
 1. Data
 Office-31, Office-Home, ImageCLEF-DA, VisDA-2017 datasets are available at [Datasets download](https://github.com/jindongwang/transferlearning/tree/master/data)
 Place the downloaded data set in the `ACAN/DataSets/` 
-2.Dependencies
+2. Dependencies
 ```
 CUDA Version: 12.0
 python==3.8.16
@@ -33,4 +33,4 @@ numpy==1.2.14
 configargparse==1.7
 pyyaml==6.0.1
 ```
-3.Run shell script files such as `bash DSAN/DSAN.sh`
+3. Run shell script files such as `bash DSAN/DSAN.sh`
