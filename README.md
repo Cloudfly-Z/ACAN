@@ -46,6 +46,10 @@ Acknowledgement
 ---
 Our code is based on the project [Everything about Transfer Learning and Domain Adapation](https://github.com/jindongwang/transferlearning).
 
+Contact
+---
+If you have any questions, please create an issue on this repository or contact at 1923351867@qq.com.
+
 Citation
 ---
 If you think our code or paper are helpful to you, please cite us!
